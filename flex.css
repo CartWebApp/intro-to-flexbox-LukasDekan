@@ -45,50 +45,59 @@
 }
 
 .box1 {
-  height: 30%;
+  height: 40%;
   width: 100%;
   align-self:center;    
 }
 
 .box2 {
+  height:19%;
   width: 50%;
-  height:20%;
   align-self:flex-end;
 }
 .box3 {
-  height: 20%;
+  height:19%;
   width:50%;
   order: 0;
 }
 .box4 {
-  height: 25%;
+  height: 19%;
   width:25%;
 
 
 }
 .box5 {
-  height:25%;
+  height:19%;
   width: 25%;
 
 }
 .box6 {
+  height:19%;
   width:25%;
-  height:30%;
+  
 }
 .box7 {
+  height:19%;
+
   width:25%;
 
 }
 .box8 {
+  height:19%;
+
   width:33.3%;
 
 }
 .box9 {
+  height:19%;
+
   width:33.3%;
 
 
 }
 .box10 {
+  height:19%;
+
   width:33.3%;
 
 }
