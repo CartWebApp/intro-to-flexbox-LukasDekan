@@ -45,58 +45,58 @@
 }
 
 .box1 {
-  height: 35%;
+  height: 40%;
   width: 100%;
   align-self:center;    
 }
 
 .box2 {
-  height:19%;
+  height: 25%;
   width: 50%;
   align-self:flex-end;
 }
 .box3 {
-  height:19%;
+  height:25%;
   width:50%;
-  order: 0;
+  
 }
 .box4 {
-  height: 19%;
-  width:25%;
-
+  height: 15%;
+  width: 20%;
+  align-self:flex-end;
 
 }
 .box5 {
-  height:19%;
-  width: 25%;
-
+  height:15%;
+  width: 20%;
+  align-self:flex-end;
 }
 .box6 {
-  height:19%;
-  width:25%;
-  
+  height:15%;
+  width: 20%;
+  align-self:flex-end;
 }
 .box7 {
-  height:19%;
+  height:15%;
 
-  width:25%;
-
+  width: 20%;
+  align-self:flex-end;
 }
 .box8 {
-  height:19%;
+  height:15;
 
   width:33.3%;
 
 }
 .box9 {
-  height:19%;
+  height:15;
 
   width:33.3%;
 
 
 }
 .box10 {
-  height:19%;
+  height:15;
 
   width:33.3%;
 
